@@ -1,6 +1,6 @@
 # V.A.R.I.S — Virtual Agent for Reasoning, Intelligence & Sovereignty
 
-> *Every AI company is racing to build smarter AI. Nobody is racing to build **loyal** AI.*
+> *Every AI company is racing to build better AI. But this operating intelligence that is clone/Digital TWIN of you , runs locally, owns your data, and works and everything for you with several agents..*
 
 ---
 
@@ -42,7 +42,10 @@ Features
 ☀️ Morning Debrief — First startup of the day: a 90-second spoken briefing about your system, your context, and your priorities.
 
 🎯 Intent Compiler — Tell VARIS a goal, not a command. "Get me ready for tomorrow's exam" → VARIS breaks it into steps and executes each one.
+
 ---
+
+
 
 ## Voice Commands
 
