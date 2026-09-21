@@ -1,0 +1,7 @@
+{
+  "_instructions": "Add your contacts here. Key = name in lowercase, value = email address. VARIS uses this when you say 'email my professor' or 'send message to mom'.",
+  "professor": "professor@college.edu",
+  "mom": "mom@example.com",
+  "dad": "dad@example.com",
+  "friend": "friend@example.com"
+}

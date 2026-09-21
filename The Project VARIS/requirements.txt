@@ -1,0 +1,47 @@
+# VARIS V3 — Complete dependency list
+# Install: pip install -r requirements.txt
+
+# ── Core ──────────────────────────────────────────────────────────────────────
+requests==2.31.0
+python-dotenv==1.0.0
+urllib3==2.1.0
+
+# ── Voice Input ───────────────────────────────────────────────────────────────
+SpeechRecognition==3.10.1
+openai-whisper==20231117
+pyaudio==0.2.14          # Windows: pip install pipwin && pipwin install pyaudio
+
+# ── Voice Output ──────────────────────────────────────────────────────────────
+edge-tts==6.1.9
+pygame==2.5.2            # For playing edge-tts MP3 output
+
+# ── LLM ───────────────────────────────────────────────────────────────────────
+groq==0.9.0              # Groq API client (free, fast, GPT-4 class)
+ollama==0.1.7            # Local Ollama client
+
+# ── Memory ────────────────────────────────────────────────────────────────────
+chromadb==0.4.22         # Vector memory (recommended)
+numpy==1.26.3
+
+# ── Browser control ───────────────────────────────────────────────────────────
+playwright==1.40.0       # Run: playwright install chromium
+beautifulsoup4==4.12.2
+
+# ── System monitoring ─────────────────────────────────────────────────────────
+psutil==5.9.8
+
+# ── Security / ML ─────────────────────────────────────────────────────────────
+scikit-learn==1.4.0      # Isolation Forest anomaly detection
+
+# ── Screen recall (optional) ──────────────────────────────────────────────────
+Pillow==10.2.0
+pytesseract==0.3.10      # Also install Tesseract OCR binary
+mss==9.0.1               # Screenshot
+
+# ── Windows-only ─────────────────────────────────────────────────────────────
+pywin32==306             # Windows: SAPI voice, registry, Win32 API
+# pycaw==0.0.8           # Optional: volume control (better than SendKeys)
+# wmi==1.5.1             # Optional: brightness control
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dateutil==2.8.2
