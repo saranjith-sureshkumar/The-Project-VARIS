@@ -14,19 +14,34 @@ It runs on your machine. Your memory never leaves your device. There is no compa
 
 ---
 
-## Why VARIS beats cloud assistants
+## Why VARIS 
+Features
 
-| Feature | Google Astra | ChatGPT Voice | Microsoft Copilot | **VARIS** |
-|---------|:-----------:|:-------------:|:-----------------:|:---------:|
-| Works offline | ❌ | ❌ | ❌ | ✅ |
-| Controls your OS | ❌ | ❌ | Partial | ✅ |
-| Organises your files | ❌ | ❌ | ❌ | ✅ |
-| Sends your emails | ❌ | ❌ | ❌ | ✅ |
-| Security monitoring | ❌ | ❌ | ❌ | ✅ |
-| Your data stays local | ❌ | ❌ | ❌ | ✅ |
-| Costs after setup | Subscription | Subscription | Subscription | **₹0** |
-| Remembers you forever | Session only | Session only | Limited | **Always** |
+🎙️ Voice-First OS Layer — Whisper speech recognition, auto-calibrated to your microphone and environment. No wake word required.
 
+🧠 Local AI Brain — Phi-3 Mini via Ollama. Thinks on your machine. Your data never leaves.
+
+📁 File Agent — Organises any folder by voice. Path-safe, undo supported, hidden files never touched.
+
+🌐 Browser Agent — Opens, searches, and controls your browser by voice command.
+
+📧 Email Agent — AI writes the email, you confirm out loud, VARIS sends it. Never sends without your approval.
+
+🛡️ Digital Immune System — Guardian runs silently in background, learns your system's normal behaviour, flags anything abnormal as a threat.
+
+🔍 VARIS Recall — Indexes everything important you see on screen locally. "Where did I see that?" — answered instantly.
+
+📋 VARIS Prep — Five minutes before any meeting or call, speaks a personalised brief: who you're meeting, what you discussed last time, what you promised.
+
+⚡ VARIS Optimize — Frees RAM before heavy tasks, detects meetings and silences itself automatically, weekly spoken health report of your laptop.
+
+🧬 Persistent Memory — ChromaDB vector memory. Remembers every conversation, locally. "What did we talk about last Tuesday?" — VARIS answers.
+
+📦 Black Box Recorder — Every action VARIS takes is logged with timestamp and reasoning. Fully auditable. Loyal only to you.
+
+☀️ Morning Debrief — First startup of the day: a 90-second spoken briefing about your system, your context, and your priorities.
+
+🎯 Intent Compiler — Tell VARIS a goal, not a command. "Get me ready for tomorrow's exam" → VARIS breaks it into steps and executes each one.
 ---
 
 ## Voice Commands
